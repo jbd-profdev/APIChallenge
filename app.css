@@ -1,0 +1,19 @@
+body{
+    background: url(https://wallpapercave.com/wp/ZqCwNUM.jpg);
+    text-align: center;
+}
+
+h1{
+    background-color: yellow;
+    opacity: 90%;
+}
+
+#form{
+    background-color: red;
+    opacity: 95%;
+}
+
+
+.hidden{
+    display: none;
+}
